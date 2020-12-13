@@ -71,6 +71,8 @@ public class LogicalConstructions {
             default:
                 System.out.println("Вы ввели несуществующий день недели.");
                 break;
+
+                //Special string for creating pull request
         }
 
     }
