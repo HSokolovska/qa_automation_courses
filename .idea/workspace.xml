@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0472d4c-1532-4134-906f-a923097afe20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LogicalConstructions.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0472d4c-1532-4134-906f-a923097afe20" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
