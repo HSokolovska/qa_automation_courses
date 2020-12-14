@@ -23,12 +23,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0472d4c-1532-4134-906f-a923097afe20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/Drum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/Other/ForEach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/Other/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/IInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/IInstrument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/InitializeOfInstruments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/InitializeOfInstruments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LessonTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/Other/LessonTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LogicalConstructions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/Other/LogicalConstructions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/Other/MyFirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringBuilderTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/Other/StringBuilderTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/Trumpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Drum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Drum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InitializeOfInstruments.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InitializeOfInstruments.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -182,7 +192,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ForEach.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/courses/Other/ForEach.java</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
