@@ -1,3 +1,5 @@
+package com.courses.Other;
+
 public class ForEach {
     public static void main(String[] args) {
         int[] numbers = {-1, 2, 0, 5, -7, 6};

@@ -23,12 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0472d4c-1532-4134-906f-a923097afe20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Drum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IInstrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InitializeOfInstruments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trumpet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/Drum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/IInstrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InitializeOfInstruments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/InitializeOfInstruments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/courses/HomeWorkFour/Trumpet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,35 +64,35 @@
   </component>
   <component name="RunManager" selected="Application.InitializeOfInstruments">
     <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForEach" />
+      <option name="MAIN_CLASS_NAME" value="com.courses.Other.ForEach" />
       <module name="my-first-app" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Human" />
+      <option name="MAIN_CLASS_NAME" value="com.courses.Other.Human" />
       <module name="my-first-app" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="InitializeOfInstruments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InitializeOfInstruments" />
+      <option name="MAIN_CLASS_NAME" value="com.courses.HomeWorkFour.InitializeOfInstruments" />
       <module name="my-first-app" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="LessonTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LessonTree" />
+      <option name="MAIN_CLASS_NAME" value="com.courses.Other.LessonTree" />
       <module name="my-first-app" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="LogicalConstructions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicalConstructions" />
+      <option name="MAIN_CLASS_NAME" value="com.courses.Other.LogicalConstructions" />
       <module name="my-first-app" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,25 +132,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1607912041250">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1607967798198">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607912041250" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607967798198" />
     <state width="978" height="342" key="GridCell.Tab.0.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846727" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1607912041249">
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1607967798197">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607912041249" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607967798197" />
     <state width="978" height="342" key="GridCell.Tab.0.center/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846727" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1607912041248">
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1607967798197">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607912041248" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607967798197" />
     <state width="978" height="342" key="GridCell.Tab.0.left/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846727" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1607912041249">
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1607967798198">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607912041249" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607967798198" />
     <state width="978" height="342" key="GridCell.Tab.0.right/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846727" />
     <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1607907291469">
       <screen x="0" y="0" width="1792" height="1120" />
@@ -172,9 +172,10 @@
     </state>
     <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607907291468" />
     <state width="978" height="342" key="GridCell.Tab.1.right/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846728" />
-    <state x="766" y="170" key="SettingsEditor" timestamp="1606934227880">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state x="587" y="152" key="SettingsEditor" timestamp="1607966333115">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="587" y="152" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1607966333115" />
     <state x="766" y="170" key="SettingsEditor/0.23.1792.1020@0.23.1792.1020" timestamp="1606934227880" />
   </component>
   <component name="XDebuggerManager">

@@ -1,3 +1,5 @@
+package com.courses.Other;
+
 import java.util.Scanner;
 
 public class LogicalConstructions {

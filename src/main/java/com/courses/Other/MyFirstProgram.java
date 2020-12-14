@@ -1,3 +1,5 @@
+package com.courses.Other;
+
 public class MyFirstProgram {
     public static void main(String[] args) {
         int x = 5, y = 6;

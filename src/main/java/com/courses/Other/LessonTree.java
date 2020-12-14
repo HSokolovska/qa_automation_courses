@@ -1,3 +1,5 @@
+package com.courses.Other;
+
 import java.sql.SQLOutput;
 
 public class LessonTree {

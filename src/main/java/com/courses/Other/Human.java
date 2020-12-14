@@ -1,3 +1,5 @@
+package com.courses.Other;
+
 public class Human {
 
     public String FirstName;

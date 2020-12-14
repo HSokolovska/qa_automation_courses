@@ -1,3 +1,5 @@
+package com.courses.Other;
+
 public class StringBuilderTypes {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Warm");
