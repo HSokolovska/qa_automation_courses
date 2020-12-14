@@ -22,7 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0472d4c-1532-4134-906f-a923097afe20" name="Default Changelist" comment="" />
+    <list default="true" id="d0472d4c-1532-4134-906f-a923097afe20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +59,21 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.LogicalConstructions">
+  <component name="RunManager" selected="Application.ForEach">
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForEach" />
+      <module name="my-first-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Human" />
+      <module name="my-first-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LessonTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LessonTree" />
       <module name="my-first-app" />
@@ -77,19 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringBuilderTypes" />
-      <module name="my-first-app" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEach" />
+        <item itemvalue="Application.Human" />
         <item itemvalue="Application.LogicalConstructions" />
         <item itemvalue="Application.LessonTree" />
         <item itemvalue="Application.MyFirstProgram" />
-        <item itemvalue="Application.StringBuilderTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -117,45 +129,59 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1607887995473">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1607908311557">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607887995473" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607908311557" />
     <state width="978" height="342" key="GridCell.Tab.0.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846727" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1607887995471">
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1607908311556">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607887995471" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607908311556" />
     <state width="978" height="342" key="GridCell.Tab.0.center/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846727" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1607887995471">
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1607908311555">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607887995471" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607908311555" />
     <state width="978" height="342" key="GridCell.Tab.0.left/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846727" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1607887995472">
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1607908311556">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607887995472" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607908311556" />
     <state width="978" height="342" key="GridCell.Tab.0.right/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846727" />
-    <state width="978" height="342" key="GridCell.Tab.1.bottom" timestamp="1606937846728">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1607907291469">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607907291469" />
     <state width="978" height="342" key="GridCell.Tab.1.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846728" />
-    <state width="978" height="342" key="GridCell.Tab.1.center" timestamp="1606937846728">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1607907291468">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607907291468" />
     <state width="978" height="342" key="GridCell.Tab.1.center/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846728" />
-    <state width="978" height="342" key="GridCell.Tab.1.left" timestamp="1606937846728">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1607907291467">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607907291467" />
     <state width="978" height="342" key="GridCell.Tab.1.left/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846728" />
-    <state width="978" height="342" key="GridCell.Tab.1.right" timestamp="1606937846728">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1607907291468">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607907291468" />
     <state width="978" height="342" key="GridCell.Tab.1.right/0.23.1792.1020@0.23.1792.1020" timestamp="1606937846728" />
     <state x="766" y="170" key="SettingsEditor" timestamp="1606934227880">
       <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state x="766" y="170" key="SettingsEditor/0.23.1792.1020@0.23.1792.1020" timestamp="1606934227880" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ForEach.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
