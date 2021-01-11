@@ -23,20 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0472d4c-1532-4134-906f-a923097afe20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/courses/pageobjects/LinkedinSignInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/course/MyFirstSeleniumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/course/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/course/eight/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/course/eight/LinkedinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/course/eight/TestWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/course/seven/DataDrivenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/course/seven/LocatorsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore 2" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/courses/homeWork7/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/courses/homeWork7/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/courses/homeWork7/HeavyBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/courses/homeWork7/HeavyBoxTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/courses/HomeWorkFour/Veterinarian.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/courses/HomeWorkFour/Veterinarian.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +65,33 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.LinkedinTest.linkedinTest">
+  <component name="RunManager" selected="Application.HeavyBoxTest">
+    <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.courses.homeWork7.GenericTest" />
+      <module name="my-first-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.courses.homeWork7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeavyBoxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.courses.homeWork7.HeavyBoxTest" />
+      <module name="my-first-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.courses.homeWork7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedinTest.linkedinTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="my-first-app" />
       <extension name="coverage">
@@ -97,48 +114,13 @@
       <module name="my-first-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.seven.*" />
+          <option name="PATTERN" value="com.courses.homeWork7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.course.seven" />
       <option name="MAIN_CLASS_NAME" value="com.course.seven.LocatorsTest" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFirstSeleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="my-first-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course" />
-      <option name="MAIN_CLASS_NAME" value="com.course.MyFirstSeleniumTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFirstSeleniumTest.seleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="my-first-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course" />
-      <option name="MAIN_CLASS_NAME" value="com.course.MyFirstSeleniumTest" />
-      <option name="METHOD_NAME" value="seleniumTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -164,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeavyBoxTest" />
+        <item itemvalue="Application.GenericTest" />
         <item itemvalue="TestNG.LinkedinTest.linkedinTest" />
         <item itemvalue="TestNG.TestWait" />
         <item itemvalue="TestNG.LocatorsTest" />
-        <item itemvalue="TestNG.MyFirstSeleniumTest.seleniumTest" />
-        <item itemvalue="TestNG.MyFirstSeleniumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -200,54 +182,66 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="384" y="141" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1610071371786" />
-    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1610245144768">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state x="709" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1610326895157">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="709" y="253" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1610326895157" />
+    <state x="634" y="284" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610325830936">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="634" y="284" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1610325830936" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1610331057236">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1610071396539" />
-    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1610244004381" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1610331057236" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1610245144768" />
-    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1610245144768">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1610331057235">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1610071396538" />
-    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1610244004380" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1610331057235" />
     <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1020@0.23.1792.1020" timestamp="1610245144768" />
-    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1610245144767">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1610331057235">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1610071396538" />
-    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1610244004380" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1610331057235" />
     <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1020@0.23.1792.1020" timestamp="1610245144767" />
-    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1610245144768">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1610331057235">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1610071396539" />
-    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1610244004381" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1610331057235" />
     <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1020@0.23.1792.1020" timestamp="1610245144768" />
-    <state width="1750" height="341" key="GridCell.Tab.1.bottom" timestamp="1610155343015">
+    <state width="1750" height="341" key="GridCell.Tab.1.bottom" timestamp="1610328684426">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1607997342530" />
-    <state width="1750" height="341" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1610155343015" />
+    <state width="1750" height="341" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1610328684426" />
     <state width="1750" height="341" key="GridCell.Tab.1.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1610155098891" />
-    <state width="1750" height="341" key="GridCell.Tab.1.center" timestamp="1610155343014">
+    <state width="1750" height="341" key="GridCell.Tab.1.center" timestamp="1610328684426">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1607997342530" />
-    <state width="1750" height="341" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1610155343014" />
+    <state width="1750" height="341" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1610328684426" />
     <state width="1750" height="341" key="GridCell.Tab.1.center/0.23.1792.1020@0.23.1792.1020" timestamp="1610155098891" />
-    <state width="1750" height="341" key="GridCell.Tab.1.left" timestamp="1610155343013">
+    <state width="1750" height="341" key="GridCell.Tab.1.left" timestamp="1610328684425">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1607997342529" />
-    <state width="1750" height="341" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1610155343013" />
+    <state width="1750" height="341" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1610328684425" />
     <state width="1750" height="341" key="GridCell.Tab.1.left/0.23.1792.1020@0.23.1792.1020" timestamp="1610155098890" />
-    <state width="1750" height="341" key="GridCell.Tab.1.right" timestamp="1610155343014">
+    <state width="1750" height="341" key="GridCell.Tab.1.right" timestamp="1610328684426">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1607997342530" />
-    <state width="1750" height="341" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1610155343014" />
+    <state width="1750" height="341" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1610328684426" />
     <state width="1750" height="341" key="GridCell.Tab.1.right/0.23.1792.1020@0.23.1792.1020" timestamp="1610155098891" />
+    <state x="434" y="192" key="Maven.ArtifactSearchDialog" timestamp="1610326582328">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="434" y="192" key="Maven.ArtifactSearchDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1610326582328" />
     <state x="587" y="152" key="SettingsEditor" timestamp="1610071339396">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
