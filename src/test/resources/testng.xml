@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="BasicSuite" verbose="1">
+    <test name="NoPackage">
+        <classes>
+            <parameter name="first-name" value="Dima"></parameter>
+            <class name="com.course.nine.MvnTests"/>
+        </classes>
+    </test>
+</suite>
